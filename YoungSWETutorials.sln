@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Client", "UnitTesting\YoungSWE.UnitTesting.Client.csproj", "{557F184E-A5D0-497D-9057-A9FB5860BB7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Client", "Unit Testing Tutorial\YoungSWE.UnitTesting.Client\YoungSWE.UnitTesting.Client.csproj", "{557F184E-A5D0-497D-9057-A9FB5860BB7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.API", "YoungSWE.UnitTesting.Service\YoungSWE.UnitTesting.API.csproj", "{DA650BCA-4F55-47C0-A92C-F629453EEDD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.API", "Unit Testing Tutorial\YoungSWE.UnitTesting.API\YoungSWE.UnitTesting.API.csproj", "{DA650BCA-4F55-47C0-A92C-F629453EEDD0}"
 	ProjectSection(ProjectDependencies) = postProject
 		{A3665A64-9585-4C36-9E08-E1A35E7727F7} = {A3665A64-9585-4C36-9E08-E1A35E7727F7}
 	EndProjectSection
@@ -14,15 +14,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosts", "Hosts", "{F36A605B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{A558A387-852A-4C53-84DA-DF466A2CC41E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Service", "YoungSWE.UnitTesting.Business\YoungSWE.UnitTesting.Service.csproj", "{A3665A64-9585-4C36-9E08-E1A35E7727F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Service", "Unit Testing Tutorial\YoungSWE.UnitTesting.Service\YoungSWE.UnitTesting.Service.csproj", "{A3665A64-9585-4C36-9E08-E1A35E7727F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Domain", "YoungSWE.UnitTesting.Business.Interface\YoungSWE.UnitTesting.Domain.csproj", "{462BB573-704A-4F4F-B33F-FFB6E6D6AE59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Domain", "Unit Testing Tutorial\YoungSWE.UnitTesting.Domain\YoungSWE.UnitTesting.Domain.csproj", "{462BB573-704A-4F4F-B33F-FFB6E6D6AE59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Repository", "YoungSWE.UnitTesting.DataAccess.Interface\YoungSWE.UnitTesting.Repository.csproj", "{4874B794-7442-46CA-9E75-C49B3B994376}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Repository", "Unit Testing Tutorial\YoungSWE.UnitTesting.Repository\YoungSWE.UnitTesting.Repository.csproj", "{4874B794-7442-46CA-9E75-C49B3B994376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Infrastructure", "YoungSWE.UnitTesting.DataAccess\YoungSWE.UnitTesting.Infrastructure.csproj", "{4E42AC88-65BA-4CA2-9E76-5B366358CFA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Infrastructure", "Unit Testing Tutorial\YoungSWE.UnitTesting.Infrastructure\YoungSWE.UnitTesting.Infrastructure.csproj", "{4E42AC88-65BA-4CA2-9E76-5B366358CFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Test", "YoungSWE.UnitTesting.Test\YoungSWE.UnitTesting.Test.csproj", "{2CD9336B-5A8D-407F-BD71-21C955B3DCA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungSWE.UnitTesting.Test", "Unit Testing Tutorial\YoungSWE.UnitTesting.Test\YoungSWE.UnitTesting.Test.csproj", "{2CD9336B-5A8D-407F-BD71-21C955B3DCA0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Testing Tutorial", "Unit Testing Tutorial", "{F19917EC-C010-4B4A-8CF6-7C283C6DC5CD}"
 EndProject
